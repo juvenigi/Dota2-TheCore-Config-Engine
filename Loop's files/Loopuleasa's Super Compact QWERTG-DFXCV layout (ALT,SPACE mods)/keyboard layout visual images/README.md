@@ -6,6 +6,7 @@ This folder also contains links to the websites that generated such images, if p
 Note: Because the links are too huge, some browsers might not parse them correctly. Try to access them in Chrome.
 
 ###Color Legend:
+<!-- TODO: make the text below a TABLE -->
 - Purple - Modifier Keys
 - Orange - Communication
 - White - Camera
